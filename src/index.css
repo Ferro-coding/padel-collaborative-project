@@ -5,9 +5,42 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: #0B1324 !important;
+  color: white !important;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+
+}
+
+.hero-section {
+  color: #fff;
+  text-align: center;
+  padding: 100px 0;
+}
+
+.center {
+  text-align: left;
+}
+
+.img {
+  border-radius: 10%;
+  width: 400px;
+  height: auto;
+}
+
+.featurette-divider {
+  margin: 5rem 0;
+  /* Space out the Bootstrap <hr> more */
+}
+
+
+
+@media (max-width: 576px) {
+  .img-big {
+    width: 300px;
+    height: 300px;
+  }
 }
