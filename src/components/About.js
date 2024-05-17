@@ -28,11 +28,7 @@ function About() {
               disposizione software per prenotazioni delle partite e tornei
               infra-community.
             </p>
-            <p>
-              <a className="btn btn-secondary" href="#">
-                View details »
-              </a>
-            </p>
+
           </div>
           <div className="col-lg-4">
             <img
@@ -48,11 +44,7 @@ function About() {
               Questo gioverà alla qualità del campo e alla gestione delle
               partite.
             </p>
-            <p>
-              <a className="btn btn-secondary" href="#">
-                View details »
-              </a>
-            </p>
+
           </div>
           <div className="col-lg-4">
             <img
@@ -68,11 +60,7 @@ function About() {
               la tua unica preoccupazione sarà quella di giocare e partecipare
               alla quota annuale di manteniento!
             </p>
-            <p>
-              <a className="btn btn-secondary" href="#">
-                View details »
-              </a>
-            </p>
+
           </div>
         </div>
 
